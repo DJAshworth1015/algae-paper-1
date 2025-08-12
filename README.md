@@ -1,0 +1,1 @@
+A collection of scripts for statistical analysis and graph creation for the paper "Barley Can Utilise Algal Fertiliser to Maintain Yield and Malt Quality Compared to Mineral Fertiliser". Intended for use with datasets found at https://doi.org/10.5281/zenodo.16810830
